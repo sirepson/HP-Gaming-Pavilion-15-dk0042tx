@@ -12,3 +12,5 @@ Ethernet                    Realtek RTL8168H/8111H PCI Express Gigabit Et
 Wireless network adapter    BCM94360CS2 Wireless Adapter
 Touchpad                    ELAN Touchpad 0710
 ```
+
+Last tried on Catalina 10.15.4
