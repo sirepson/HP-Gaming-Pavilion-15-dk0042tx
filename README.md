@@ -4,7 +4,7 @@
 Laptop model                Thunderobot 911 Air  
 CPU                         Intel Core i7 9750h
 Operate System              macOS Catalina + Windows 10 
-Main board                  THUNDEROBOT NLAH ( HM370 Chipset )
+Main board                  HM370 Chipset
 Discret egraphics           Nvidia GeForce GTX 1650 4 GB
 Integrated graphics         Intel Graphics UHD 630
 Audio                       Realtek High Definition Audio (ALC255) 
